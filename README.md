@@ -1,2 +1,3 @@
-# js-symmetrical-encryption
-# js-symmetrical-encryption
+### Introduction
+A simple js-symmetrical-encryption algorithm for js
+
